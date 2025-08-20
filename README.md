@@ -1,4 +1,4 @@
-# 📘 Terminos de tecnologías de la Información y la Comunicación (TIC)
+# 📘 Terminos de tecnologías de la Información y la Comunicación (TIC) (1500 terminos)
 ### Proyecto / Portafolio - Tecnólogo en Análisis y Desarrollo de Software
 # Numero de ficha: 3288046
 **Kevin Santiago Arévalo Trujillo**  
@@ -205,5 +205,28 @@ Con una VPN, el tráfico de red se enruta a través de servidores intermedios, o
 - Proteger la conexión al usar **Wi-Fi público** en un aeropuerto.  
 - Acceder a contenidos restringidos geográficamente (ejemplo: streaming disponible en otro país).  
 - Aumentar la seguridad en la **conexión de teletrabajo** hacia servidores empresariales.  
-- Navegar de manera privada evitando el rastreo por parte de anunciantes.  
+- Navegar de manera privada evitando el rastreo por parte de anunciantes.
 
+## 10 📺 Pseudocodigo (por buscar)
+
+## 11 Vaiable 
+
+## 12 mantenimiento predictivo y correctivo
+
+## 13 lumes de poyector
+
+## 14 overcloking
+
+## 15 rendeizar
+
+## 16 v-ram
+
+## 17 computador cuantico 
+
+## 18 protocolo ip
+
+## 19 protocolo http
+
+## 20 endpoint
+
+## 
