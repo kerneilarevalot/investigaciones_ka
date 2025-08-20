@@ -58,9 +58,7 @@ De esta forma, el usuario no necesita iniciar sesión varias veces en diferentes
 - Plataformas empresariales que integran varios sistemas internos con una sola autenticación.  
 - Aplicaciones que permiten ingresar con **Facebook, GitHub o LinkedIn**.
 
-## 3.1 🔹 Dato  
-
-### 📌 Significado  
+## 3.1 🔹 Dato   
 Un **dato** es una representación simbólica o numérica de un hecho, concepto o instrucción que por sí mismo no tiene un significado completo.  
 Se considera la materia prima que, al ser procesada, puede convertirse en información.  
 
@@ -79,8 +77,6 @@ Estos datos por sí solos no dicen nada hasta que se ponen en contexto.
 ---
 
 ## 3.2 🔹 Información  
-
-### 📌 Significado  
 La **información** es el conjunto de datos organizados, procesados e interpretados dentro de un contexto, lo que les otorga un significado y utilidad.  
 
 ### ✅ Características  
@@ -105,8 +101,6 @@ Aquí, los datos aislados se convierten en un mensaje con valor.
 | Objetivo y bruto. | Interpretado y contextualizado. |
 
 ## 4 🎯 DPI (Dots Per Inch)  
-
-### 📌 Significado  
 El término **DPI (Dots Per Inch o Puntos por Pulgada)** se utiliza para medir la **resolución** de una imagen o la **precisión de un dispositivo de entrada** como un ratón.  
 Hace referencia a la cantidad de puntos que se pueden mostrar o detectar en una pulgada lineal.  
 
@@ -122,8 +116,6 @@ Hace referencia a la cantidad de puntos que se pueden mostrar o detectar en una 
 - Un ratón gamer puede configurarse entre **800 y 16000 DPI** según la precisión deseada.  
 
 ## 5 📱 Estándares para Código QR  
-
-### 📌 Significado  
 El **Código QR (Quick Response Code)** es un tipo de código de barras bidimensional que puede almacenar información como texto, URL, datos de contacto o configuraciones de red.  
 Fue creado en 1994 por la empresa japonesa **Denso Wave** y está regulado bajo la norma **ISO/IEC 18004**, que define su estructura y funcionamiento.  
 
@@ -135,9 +127,7 @@ Fue creado en 1994 por la empresa japonesa **Denso Wave** y está regulado bajo 
 - **Compatibilidad universal:** puede ser leído por cualquier dispositivo con cámara y software de escaneo.  
 - **Tipos comunes:** QR Code Modelo 1 y Modelo 2, Micro QR, SQRC y Frame QR.
 
-## 6 🚀 Kick-off  
-
-### 📌 Significado  
+## 6 🚀 Kick-off 
 El término **Kick-off** se refiere a la **reunión inicial de un proyecto**, donde se presenta oficialmente a los participantes, se definen objetivos, alcances, roles y se establece el plan de trabajo.  
 Es un punto de partida que asegura que todos los involucrados tengan una visión clara y compartida del proyecto.  
 
@@ -160,9 +150,7 @@ Es un punto de partida que asegura que todos los involucrados tengan una visión
 - Autenticación de **Wi-Fi** escaneando un código generado.  
 - Control de inventarios y seguimiento logístico.
 
-## 7 🤝 Stakeholder  
-
-### 📌 Significado  
+## 7 🤝 Stakeholder 
 Un **stakeholder** es toda persona, grupo u organización que tiene **interés, influencia o se ve afectado** directa o indirectamente por un proyecto, producto o decisión empresarial.  
 Pueden ser internos (empleados, gerentes, directivos) o externos (clientes, proveedores, comunidad, gobierno).  
 
@@ -183,9 +171,7 @@ Pueden ser internos (empleados, gerentes, directivos) o externos (clientes, prov
 - En un proyecto corporativo, los **stakeholders** pueden incluir inversionistas, proveedores, gerentes y la comunidad afectada.  
 - En proyectos de software público, los **stakeholders** abarcan entidades gubernamentales y ciudadanos.
 
-## 8 🧠 Ventana de Contexto en IA  
-
-### 📌 Significado  
+## 8 🧠 Ventana de Contexto en IA 
 La **ventana de contexto** en Inteligencia Artificial (particularmente en modelos de lenguaje) se refiere a la **cantidad máxima de información (texto o tokens)** que el modelo puede tener en cuenta al procesar una solicitud o generar una respuesta.  
 Funciona como la "memoria de corto plazo" del modelo: todo lo que quede fuera de la ventana ya no será recordado en la interacción actual.  
 
@@ -201,9 +187,7 @@ Funciona como la "memoria de corto plazo" del modelo: todo lo que quede fuera de
 - Modelos más avanzados (ej: GPT con **128.000 tokens**) pueden analizar documentos extensos como un libro completo.  
 - En una conversación, si se sobrepasa la ventana de contexto, las primeras partes del diálogo se "olvidan" y ya no afectan la respuesta.  
 
-## 🌐 VPN (Virtual Private Network) - Ejemplo: TunnelBear  
-
-###  9 📌 Significado  
+## 🌐 VPN (Virtual Private Network) - Ejemplo: TunnelBear 
 Una **VPN (Red Privada Virtual)** es una tecnología que crea un **túnel de comunicación cifrado** entre el dispositivo del usuario e Internet, protegiendo la privacidad y permitiendo navegar de forma segura.  
 Con una VPN, el tráfico de red se enruta a través de servidores intermedios, ocultando la dirección IP real y mejorando la seguridad en línea.  
 
