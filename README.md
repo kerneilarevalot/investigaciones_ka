@@ -187,7 +187,7 @@ Funciona como la "memoria de corto plazo" del modelo: todo lo que quede fuera de
 - Modelos más avanzados (ej: GPT con **128.000 tokens**) pueden analizar documentos extensos como un libro completo.  
 - En una conversación, si se sobrepasa la ventana de contexto, las primeras partes del diálogo se "olvidan" y ya no afectan la respuesta.  
 
-## 🌐 VPN (Virtual Private Network) - Ejemplo: TunnelBear 
+## 9 🌐 VPN (Virtual Private Network) - Ejemplo: TunnelBear 
 Una **VPN (Red Privada Virtual)** es una tecnología que crea un **túnel de comunicación cifrado** entre el dispositivo del usuario e Internet, protegiendo la privacidad y permitiendo navegar de forma segura.  
 Con una VPN, el tráfico de red se enruta a través de servidores intermedios, ocultando la dirección IP real y mejorando la seguridad en línea.  
 
