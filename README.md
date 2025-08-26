@@ -207,26 +207,324 @@ Con una VPN, el tráfico de red se enruta a través de servidores intermedios, o
 - Aumentar la seguridad en la **conexión de teletrabajo** hacia servidores empresariales.  
 - Navegar de manera privada evitando el rastreo por parte de anunciantes.
 
-## 10 📺 Pseudocodigo (por buscar)
+## 10 💻 Pseudocódigo  
 
-## 11 Vaiable 
+### 📌 Significado  
+El **pseudocódigo** es una forma de representar algoritmos utilizando un lenguaje estructurado y similar al de programación, pero sin seguir la sintaxis estricta de un lenguaje en particular.  
+Se emplea como un **puente entre el lenguaje natural y el código real**, facilitando la comprensión del problema y su posterior implementación en un lenguaje de programación.  
 
-## 12 mantenimiento predictivo y correctivo
+### ✅ Características  
+- No sigue reglas de sintaxis rígidas, pero sí una **estructura lógica ordenada**.  
+- Utiliza palabras clave comunes como: **INICIO, FIN, SI, ENTONCES, MIENTRAS, PARA**.  
+- Es **independiente del lenguaje de programación**, lo que lo hace universal para el análisis.  
+- Facilita la comunicación entre analistas, desarrolladores y personas no técnicas.  
+- Permite diseñar, planificar y depurar algoritmos antes de codificarlos.  
 
-## 13 lumes de poyector
+### 🖥️ Ejemplos de uso  
 
-## 14 overcloking
+**Ejemplo 1: Algoritmo para sumar dos números**  
+INICIO
+LEER numero1
+LEER numero2
+suma ← numero1 + numero2
+MOSTRAR "El resultado es: ", suma
+FIN
 
-## 15 rendeizar
+**Ejemplo 2: Determinar si un número es par o impar** 
+INICIO
+LEER numero
+SI numero MOD 2 = 0 ENTONCES
+MOSTRAR "El número es PAR"
+SINO
+MOSTRAR "El número es IMPAR"
+FIN SI
+FIN
 
-## 16 v-ram
+## 11 🔧 Variable  
 
-## 17 computador cuantico 
+### 📌 Significado  
+Una **variable** es un espacio en la memoria de un sistema que se utiliza para **almacenar datos** que pueden cambiar durante la ejecución de un programa.  
+Cada variable tiene un **nombre (identificador)** y un **valor**, lo que permite manipular información en algoritmos y programas.  
 
-## 18 protocolo ip
+### ✅ Características  
+- Actúa como un **contenedor** de datos en memoria.  
+- Tiene un **tipo de dato** (ejemplo: entero, decimal, texto, booleano).  
+- Su valor puede **modificarse** a lo largo del programa.  
+- Se identifica mediante un **nombre único** dentro de un alcance o contexto.  
+- Es esencial para el almacenamiento, procesamiento y transmisión de información en software.  
 
-## 19 protocolo http
+### 🖥️ Ejemplos de uso  
 
-## 20 endpoint
+**Ejemplo 1: Variable en pseudocódigo**  
+INICIO
+entero edad ← 20
+texto nombre ← "Kevin"
+MOSTRAR "Hola, ", nombre, " tienes ", edad, " años."
+FIN
 
-## 
+**Ejemplo 2: Variable en Python**  
+python
+edad = 20
+nombre = "Kevin"
+print("Hola,", nombre, "tienes", edad, "años.")
+
+**Ejemplo 3: Variable en JavaScript**
+let edad = 20;
+let nombre = "Kevin";
+console.log("Hola, " + nombre + " tienes " + edad + " años.");
+
+## 12.1 🛠️ Mantenimiento Predictivo  
+
+### 📌 Significado  
+El **mantenimiento predictivo** es una estrategia que busca **anticipar fallos o problemas** en sistemas, software o hardware mediante el monitoreo y análisis de datos.  
+Su objetivo es detectar irregularidades antes de que provoquen una falla crítica, reduciendo costos y tiempos de inactividad.  
+
+### ✅ Características  
+- Se basa en el **monitoreo constante** de indicadores de rendimiento.  
+- Utiliza herramientas de **análisis de datos e inteligencia artificial** para anticipar fallos.  
+- Reduce el tiempo de inactividad no planificado.  
+- Permite planificar intervenciones en el momento adecuado.  
+- Se aplica tanto en infraestructura tecnológica como en software.  
+
+### 🖥️ Ejemplos de uso  
+- Analizar logs de un servidor para detectar **posibles caídas**.  
+- Monitorear el **uso de disco** para anticipar saturaciones.  
+- Revisar patrones de **código obsoleto** que puedan generar errores futuros.  
+- Sistemas industriales que avisan cuando un componente se está deteriorando.  
+
+---
+
+## 12.2🔧 Mantenimiento Correctivo  
+
+### 📌 Significado  
+El **mantenimiento correctivo** consiste en las acciones realizadas para **corregir errores, fallos o problemas** que ya se han presentado en un sistema o software.  
+Se aplica una vez ocurre el daño, con el fin de restablecer el funcionamiento normal.  
+
+### ✅ Características  
+- Actúa **después de que aparece un fallo**.  
+- Puede implicar reparación, actualización o reemplazo.  
+- Es necesario para garantizar la **continuidad del servicio**.  
+- Puede ser programado (cuando no es urgente) o no programado (cuando ocurre una falla crítica).  
+- Es más reactivo que el predictivo.  
+
+### 🖥️ Ejemplos de uso  
+- Reparar un **bug en un programa** reportado por el usuario.  
+- Restaurar un **servidor caído** por un error inesperado.  
+- Reemplazar una pieza dañada de hardware.  
+- Corregir un fallo en la **conexión de red**.  
+
+## 13 💡 Lúmenes de Proyector  
+
+### 📌 Significado  
+Los **lúmenes** son la unidad de medida que indica la **cantidad de luz** que un proyector es capaz de emitir.  
+En el caso de los proyectores, esta medida determina la **brillantez de la imagen proyectada**, influyendo directamente en la **claridad, visibilidad y calidad** de la proyección en diferentes entornos.  
+
+### ✅ Características  
+- A mayor número de lúmenes, **más brillante** será la proyección.  
+- Se mide en **ANSI lúmenes** (American National Standards Institute), un estándar para comparar proyectores.  
+- La cantidad de lúmenes recomendada depende del **entorno de uso**:  
+  - 1.000 a 2.000 lúmenes → espacios oscuros o pequeños.  
+  - 2.000 a 3.500 lúmenes → aulas o salas con algo de luz ambiental.  
+  - 4.000+ lúmenes → auditorios, exteriores o espacios muy iluminados.  
+- La elección adecuada de lúmenes evita imágenes opacas o poco nítidas.  
+
+### 🖥️ Ejemplos de uso  
+- Un proyector de **1.200 lúmenes** funciona bien en una habitación oscura para cine en casa.  
+- Un proyector de **3.000 lúmenes** es ideal para aulas escolares con iluminación natural.  
+- Un proyector de **5.000 lúmenes** se usa en conferencias grandes o auditorios con luz intensa.
+
+## 14 ⚡ Overclocking  
+
+### 📌 Significado  
+El **overclocking** es la práctica de **aumentar la velocidad de funcionamiento** de un componente de hardware (como el procesador, tarjeta gráfica o memoria RAM) más allá de las especificaciones establecidas por el fabricante.  
+El objetivo es obtener **mayor rendimiento** en el equipo, aunque puede implicar **riesgos de estabilidad y sobrecalentamiento**.  
+
+### ✅ Características  
+- Se aplica principalmente en **CPU, GPU y memorias RAM**.  
+- Requiere ajustes en la **BIOS/UEFI** o en software especializado.  
+- Aumenta la **frecuencia de reloj** (MHz/GHz) y, en consecuencia, el rendimiento.  
+- Puede provocar **mayor consumo de energía y calor**.  
+- Se recomienda usar **sistemas de refrigeración avanzados** para evitar daños.  
+- Aunque mejora el rendimiento, puede anular la **garantía del fabricante**.  
+
+### 🖥️ Ejemplos de uso  
+- Aumentar la frecuencia de un procesador de **3.5 GHz a 4.2 GHz** para mejorar el rendimiento en juegos o software de alto consumo.  
+- Realizar overclocking en una **GPU** para obtener más FPS en videojuegos.  
+- Optimizar memorias **RAM DDR4** de 2400 MHz a 3200 MHz para acelerar la velocidad de carga de aplicaciones.  
+
+## 15 🎨 Renderizar  
+
+### 📌 Significado  
+**Renderizar** es el proceso de **generar una imagen, video o animación final** a partir de un modelo digital o datos en bruto.  
+En términos simples, es cuando el sistema toma toda la información (geometría, texturas, luces, efectos) y la convierte en una representación visual lista para mostrar en pantalla o exportar.  
+
+### ✅ Características  
+- Puede aplicarse en **2D y 3D**.  
+- Requiere **alto poder de procesamiento** (CPU y GPU).  
+- Puede hacerse en **tiempo real** (como en videojuegos) o de forma **no interactiva** (como en animaciones o películas).  
+- Influye directamente en la **calidad visual** del resultado final.  
+- Puede tardar segundos (render en tiempo real) o incluso horas/días (renderización de alta calidad).  
+- Utiliza algoritmos de **iluminación, sombras, texturizado y física** para generar realismo.  
+
+### 🖥️ Ejemplos de uso  
+- Renderizar una **animación 3D** en Blender para producir un video final.  
+- Procesar un **juego en tiempo real**, donde la tarjeta gráfica renderiza cada fotograma.  
+- Renderizar un **modelo arquitectónico** para mostrar cómo se verá un edificio terminado.  
+- Convertir un **video editado** en un archivo final exportado (ejemplo: de un proyecto en Premiere Pro a un MP4).  
+
+## 16 🖼️ VRAM (Video Random Access Memory)  
+
+### 📌 Significado  
+La **VRAM** es un tipo de memoria de acceso aleatorio diseñada específicamente para **almacenar y procesar datos gráficos**.  
+Se encuentra integrada en las **tarjetas gráficas (GPU)** y es la encargada de manejar texturas, imágenes, modelos 3D y todo lo necesario para que la representación visual se muestre de manera fluida y nítida en la pantalla.  
+
+### ✅ Características  
+- Es una memoria **dedicada al procesamiento gráfico**.  
+- Determina la capacidad de la GPU para manejar **texturas en alta resolución** y grandes volúmenes de datos visuales.  
+- A mayor VRAM, mejor rendimiento en **videojuegos, edición de video, modelado 3D y renderización**.  
+- Se mide en **gigabytes (GB)**, siendo común en la actualidad encontrar **4GB, 8GB, 12GB o 16GB**.  
+- Está optimizada para trabajar en paralelo con el **procesador gráfico (GPU)**, reduciendo la carga en la memoria RAM del sistema.  
+
+### 🖥️ Ejemplos de uso  
+- Una tarjeta gráfica con **4GB de VRAM** es suficiente para juegos en resolución **1080p**.  
+- Una GPU con **8GB o más de VRAM** permite trabajar con **edición de video en 4K** y renderización 3D compleja.  
+- En videojuegos de última generación, más VRAM permite cargar **texturas de mayor calidad** y evitar caídas de FPS.  
+- En aplicaciones como **Autodesk Maya o Blender**, la VRAM gestiona los modelos 3D y sus texturas para el renderizado.  
+
+## 17  🧮 Computador Cuántico  
+
+### 📌 Significado  
+Un **computador cuántico** es un dispositivo de procesamiento que utiliza los **principios de la mecánica cuántica** para realizar cálculos.  
+A diferencia de los computadores clásicos que usan **bits** (0 o 1), los computadores cuánticos usan **qubits**, que pueden representar **0 y 1 al mismo tiempo** gracias al fenómeno de la **superposición cuántica**.  
+
+Esto les permite resolver ciertos problemas mucho más rápido que los computadores tradicionales.  
+
+### ✅ Características  
+- Usa **qubits** en lugar de bits.  
+- Se basa en fenómenos cuánticos como **superposición** y **entrelazamiento**.  
+- Tiene la capacidad de realizar **procesamiento paralelo masivo**.  
+- No reemplaza a los computadores clásicos, sino que se enfoca en problemas específicos (optimización, criptografía, simulaciones moleculares, IA).  
+- Requiere **condiciones especiales**, como temperaturas extremadamente bajas y entornos aislados de interferencias.  
+- Aún se encuentra en etapas de investigación y desarrollo, con acceso limitado a través de la nube en plataformas como **IBM Quantum** o **Google Quantum AI**.  
+
+### 🖥️ Ejemplos de uso  
+- Resolver algoritmos de **factorización** mucho más rápido que un computador clásico (impacto en criptografía).  
+- Simular el comportamiento de **moléculas y materiales** en investigación científica.  
+- Optimizar rutas de **logística y transporte** en grandes ciudades.  
+- Procesamiento avanzado de datos para entrenar modelos de **inteligencia artificial**.   
+
+## 18 🌍 Protocolo IP (Internet Protocol)  
+
+### 📌 Significado  
+El **Protocolo de Internet (IP)** es un conjunto de reglas que permite que los dispositivos se comuniquen entre sí dentro de una red.  
+Su función principal es **identificar y direccionar** cada dispositivo mediante una **dirección IP**, asegurando que los datos lleguen desde un origen hasta el destino correcto.  
+
+### ✅ Características  
+- Opera en la **capa de red** del modelo OSI.  
+- Cada dispositivo conectado a una red posee una **dirección IP única**.  
+- Divide los datos en **paquetes**, que viajan por diferentes rutas hasta llegar al destino.  
+- Es un protocolo **no orientado a conexión** (no garantiza por sí mismo la entrega de los datos, esa tarea suele complementarse con **TCP**).  
+- Existen dos versiones principales:  
+  - **IPv4**: utiliza direcciones de 32 bits (ejemplo: `192.168.1.1`).  
+  - **IPv6**: utiliza direcciones de 128 bits, creadas para soportar la creciente cantidad de dispositivos (ejemplo: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`).  
+
+### 🖥️ Ejemplos de uso  
+- Cuando accedes a una página web, tu computador envía una petición con su **dirección IP** y recibe la respuesta desde la IP del servidor.  
+- En una red doméstica, cada dispositivo (celular, PC, Smart TV) tiene su propia dirección IP para conectarse a internet.  
+- El **IPv6** se usa para asignar direcciones en el Internet de las Cosas (**IoT**), ya que IPv4 se quedó corto.  
+
+## 19 🌐 Protocolo HTTP (HyperText Transfer Protocol)  
+
+### 📌 Significado  
+El **HTTP** es un protocolo de comunicación que se utiliza para la **transferencia de información en la World Wide Web (WWW)**.  
+Permite que los navegadores (clientes) soliciten recursos como páginas, imágenes, videos o archivos a los servidores web.  
+
+Es el lenguaje base que hace posible la navegación en internet.  
+
+### ✅ Características  
+- Funciona en la **capa de aplicación** del modelo OSI.  
+- Usa el esquema de **cliente-servidor**: el cliente solicita y el servidor responde.  
+- Opera comúnmente en el **puerto 80**.  
+- Es un protocolo **sin estado**: cada petición se procesa de forma independiente (no recuerda información previa).  
+- Actualmente, se utiliza su versión más segura, **HTTPS**, que incorpora cifrado con **SSL/TLS** para proteger los datos transmitidos.  
+- Permite métodos de petición como:  
+  - **GET**: solicitar datos de un recurso.  
+  - **POST**: enviar datos al servidor.  
+  - **PUT**: actualizar un recurso.  
+  - **DELETE**: eliminar un recurso.  
+
+### 🖥️ Ejemplos de uso  
+- Cuando ingresas a `http://www.ejemplo.com`, tu navegador envía una petición HTTP al servidor para obtener la página.  
+- El **HTTP POST** se usa al llenar formularios en línea y enviar datos al servidor.  
+- El **HTTP GET** se utiliza al cargar imágenes, estilos o scripts desde un sitio web.  
+- **HTTPS** se aplica en sitios de comercio electrónico o banca en línea para proteger contraseñas y transacciones.  
+
+## 20 🔗 Endpoint  
+
+### 📌 Significado  
+Un **endpoint** es un punto final de comunicación dentro de una red o sistema.  
+En el contexto de las **APIs (Interfaces de Programación de Aplicaciones)**, un endpoint es una **URL específica** donde un cliente puede acceder a un recurso o servicio en un servidor.  
+
+En redes, también puede referirse a cualquier dispositivo (computador, móvil, impresora, IoT) que se conecta y actúa como punto de inicio o fin de una comunicación.  
+
+### ✅ Características  
+- Representa una **dirección única** donde se puede acceder a datos o funcionalidades.  
+- Puede devolver información en diferentes formatos, como **JSON** o **XML**.  
+- Define cómo interactuar con un recurso (ejemplo: crear, leer, actualizar o eliminar datos).  
+- Los **endpoints de API REST** suelen estar organizados por rutas lógicas (ejemplo: `/usuarios`, `/productos`).  
+- En seguridad informática, cada **endpoint** de red es un posible punto de vulnerabilidad, por lo que requiere protección (ejemplo: antivirus, firewalls, autenticación).  
+
+### 🖥️ Ejemplos de uso  
+- En una API de usuarios:  
+  - `GET https://api.ejemplo.com/usuarios` → devuelve la lista de usuarios.  
+  - `POST https://api.ejemplo.com/usuarios` → crea un nuevo usuario.  
+- Un **endpoint de red** puede ser tu laptop conectada a WiFi, que recibe y envía datos en internet.  
+- En **aplicaciones móviles**, un endpoint conecta la app con el servidor para sincronizar información (ejemplo: WhatsApp consultando mensajes nuevos).  
+
+## 21.1 🕶️ Realidad Virtual (VR)  
+
+### 📌 Significado  
+La **Realidad Virtual (VR)** es una tecnología que crea un **entorno digital completamente inmersivo**, simulado por computadora, donde el usuario interactúa a través de dispositivos como visores o gafas VR.  
+
+### ✅ Características  
+- El entorno es **totalmente digital** y sustituye la realidad física.  
+- Utiliza **cascos o visores VR** (ejemplo: Oculus, HTC Vive, PlayStation VR).  
+- Permite interacción mediante **controles, sensores de movimiento o guantes hápticos**.  
+- Involucra experiencias inmersivas como juegos, entrenamientos, recorridos virtuales o simulaciones.  
+
+### 🖥️ Ejemplos de uso  
+- Videojuegos inmersivos en 3D.  
+- Simuladores de vuelo o entrenamiento militar.  
+- Visitas guiadas a museos o recorridos turísticos virtuales.  
+- Terapias médicas para fobias o rehabilitación.  
+
+---
+
+## 21.2📱 Realidad Aumentada (AR)  
+
+### 📌 Significado  
+La **Realidad Aumentada (AR)** es una tecnología que combina la **realidad física con elementos digitales** superpuestos en tiempo real, generalmente a través de cámaras, aplicaciones móviles o gafas AR.  
+
+### ✅ Características  
+- La experiencia mezcla el **mundo real** con información digital.  
+- Funciona en dispositivos como **smartphones, tablets o gafas AR** (ejemplo: Microsoft HoloLens).  
+- No reemplaza la realidad, sino que la **enriquece con datos o gráficos**.  
+- Requiere cámara y software para reconocer el entorno y proyectar elementos virtuales sobre él.  
+
+### 🖥️ Ejemplos de uso  
+- Juegos como **Pokémon Go**.  
+- Aplicaciones de compras que permiten probar muebles o ropa virtualmente.  
+- Uso en medicina para guiar cirugías con superposición de información.  
+- Publicidad interactiva en carteles y empaques.  
+
+---
+
+## 📊 Diferencias entre Realidad Virtual y Realidad Aumentada  
+
+| Aspecto               | Realidad Virtual (VR) 🕶️ | Realidad Aumentada (AR) 📱 |
+|------------------------|--------------------------|-----------------------------|
+| Entorno                | 100% digital, inmersivo  | Realidad física + objetos digitales |
+| Dispositivos           | Gafas VR, controles, sensores | Smartphones, tablets, gafas AR |
+| Experiencia            | Sustituye la realidad    | Complementa la realidad |
+| Aplicaciones comunes   | Videojuegos, simuladores, entrenamientos | Juegos móviles, publicidad, medicina, educación |
+| Nivel de inmersión     | Muy alto                 | Moderado, depende del dispositivo |
